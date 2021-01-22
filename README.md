@@ -4,7 +4,7 @@
 
 Create an algorithm to *detect* when the cryptocurrency price exceeds a threshold and *send* a message on skype to alert.
 
-## details on what was done
+## Details on what was done
 
 I use Object-oriented programming (OOP) in Python. 
 
