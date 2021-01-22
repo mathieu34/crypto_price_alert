@@ -1,4 +1,4 @@
-# cryptocurrency price alert
+# Cryptocurrency price alert
 
 ## The goal
 
