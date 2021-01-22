@@ -6,7 +6,7 @@ Create an algorithm to *detect* when the cryptocurrency price exceeds a threshol
 
 ## details on what was done
 
-I use Object-oriented programming (OOP) in Python. 
+I use Object-oriented programming (OOP) in Python. <br />
 I select *interval of time* and *time step* to get data on *Zilliqa* cryptocurrency. 
 For each data row I look for the passing of a *price threshold*.
 if a threshold is exceeded, i send a message to a *recipient* with my *skype account*, else, i do nothing. 
